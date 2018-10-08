@@ -1,0 +1,14 @@
+{
+	"IE": [
+		"login",
+		"logout"
+	],
+	"Chrome": [
+		"login",
+		"logout"
+	],
+	"FIREFOX": [
+		"login",
+		"logout"
+	]
+}
